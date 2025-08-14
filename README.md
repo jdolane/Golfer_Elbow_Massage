@@ -8,3 +8,9 @@ This is a repository for a research project that I did on the effects of massage
 All tables, graphs and statistics can be viewed on [Golfer_Elbow.ipynb](Golfer_Elbow.ipynb).
 
 For more information on golfer's elbow, see [Jeremy - Summary of Pathology.pdf](Summary_of_Pathology.pdf).
+
+## Exercises
+
+<img src="images/Golfer Elbow - Exercises.png" alt="Exercises done by the client" width="50%">
+<img src="images/Golfer Elbow - Pain Scale.png" alt="Exercises done by the client" width="50%">
+<img src="images/Golfer Elbow - Improvement.png" alt="Exercises done by the client" width="50%">

@@ -7,4 +7,4 @@ This is a repository for a research project that I did on the effects of massage
 
 All tables, graphs and statistics can be viewed on [Golfer_Elbow.ipynb](Golfer_Elbow.ipynb).
 
-For more information on golfer's elbow, see [Jeremy - Summary of Pathology.pdf](Jeremy - Summary of Pathology.pdf).
+For more information on golfer's elbow, see [Jeremy - Summary of Pathology.pdf](Summary_of_Pathology.pdf).
